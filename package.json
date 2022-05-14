@@ -1,0 +1,23 @@
+{
+  "name": "fetch_api_usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krycnylmz/fetch_api_usage.git"
+  },
+  "author": "krycnylmz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krycnylmz/fetch_api_usage/issues"
+  },
+  "homepage": "https://github.com/krycnylmz/fetch_api_usage#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
