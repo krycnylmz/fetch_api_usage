@@ -10,8 +10,6 @@ This module use this endpoints
   ```
   import getData from "./getData.js";
   ```
-2. Then you can call the fınction
-  const user_id =1 ;
-  getData(user_id);
+
 
 ![Usage](./images/usage.png)
